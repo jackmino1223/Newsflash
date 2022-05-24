@@ -1,0 +1,7 @@
+{
+    "id" : 10000,
+    "name" : "Current Weather",
+    "url" : "https://darksky.net/dev/",
+    "description" : "Powered by Dark Sky",
+    "featured" : true
+}
